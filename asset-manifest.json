@@ -4,8 +4,8 @@
     "static/js/0.8bd64117.chunk.js.map": "/luckyswap/static/js/0.8bd64117.chunk.js.map",
     "static/js/1.0b08ef5d.chunk.js": "/luckyswap/static/js/1.0b08ef5d.chunk.js",
     "static/js/1.0b08ef5d.chunk.js.map": "/luckyswap/static/js/1.0b08ef5d.chunk.js.map",
-    "main.js": "/luckyswap/static/js/main.a9c79db7.chunk.js",
-    "main.js.map": "/luckyswap/static/js/main.a9c79db7.chunk.js.map",
+    "main.js": "/luckyswap/static/js/main.366ced95.chunk.js",
+    "main.js.map": "/luckyswap/static/js/main.366ced95.chunk.js.map",
     "runtime-main.js": "/luckyswap/static/js/runtime-main.116242f5.js",
     "runtime-main.js.map": "/luckyswap/static/js/runtime-main.116242f5.js.map",
     "static/css/4.19c927c0.chunk.css": "/luckyswap/static/css/4.19c927c0.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.39961949.chunk.js": "/luckyswap/static/js/9.39961949.chunk.js",
     "static/js/9.39961949.chunk.js.map": "/luckyswap/static/js/9.39961949.chunk.js.map",
     "index.html": "/luckyswap/index.html",
-    "precache-manifest.02f85643c18b22fc8297339321c33274.js": "/luckyswap/precache-manifest.02f85643c18b22fc8297339321c33274.js",
+    "precache-manifest.ba7161d97d9d8256d432463623264b4c.js": "/luckyswap/precache-manifest.ba7161d97d9d8256d432463623264b4c.js",
     "service-worker.js": "/luckyswap/service-worker.js",
     "static/css/4.19c927c0.chunk.css.map": "/luckyswap/static/css/4.19c927c0.chunk.css.map",
     "static/js/0.8bd64117.chunk.js.LICENSE.txt": "/luckyswap/static/js/0.8bd64117.chunk.js.LICENSE.txt",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.116242f5.js",
     "static/css/4.19c927c0.chunk.css",
     "static/js/4.5ee294ef.chunk.js",
-    "static/js/main.a9c79db7.chunk.js"
+    "static/js/main.366ced95.chunk.js"
   ]
 }
