@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8897da40ad9e7c4dde8613456722c8c0",
+    "revision": "0d13462c67b5112c625c032c2b8c9e52",
     "url": "/luckyswap/index.html"
   },
   {
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luckyswap/static/js/9.39961949.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "095a463656e733263d59",
-    "url": "/luckyswap/static/js/main.9c9f56a8.chunk.js"
+    "revision": "b45b772b71aef282fe53",
+    "url": "/luckyswap/static/js/main.a9c79db7.chunk.js"
   },
   {
     "revision": "96e355af3c74cc4b1b1a",
